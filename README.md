@@ -18,3 +18,5 @@ No support for modded card.
 * count frost orb cards as block cards except for 'Chaos'.
 * not count buffs/debuffs cards as block cards such as 'Rage','TalkToTheHand', and so on.
 
+## Note
+This mod was created based on [Yoda2798/ShowCardTypeCounts v1.1.4](https://github.com/Yoda2798/ShowCardTypeCounts)
