@@ -2,7 +2,7 @@
 Slay the Spire mod displaying numbers and percentages of block in deck while on relevant screens. Features extensive customisation options in the mod config menu along with native language support from using existing strings.
 
 ## Installation
-Install the requirements linked below, then go to the Steam release for this mod [here](https//www.google.com) to download.
+Install the requirements linked below, then go to the Steam release for this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2804318467) to download.
 
 ### Requirements:
 * [ModTheSpire](https://steamcommunity.com/sharedfiles/filedetails/?id=1605060445&searchtext=)
